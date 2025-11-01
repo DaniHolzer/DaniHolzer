@@ -42,7 +42,7 @@ I began learning code in **April 2023**, and I’m currently gaining foundationa
 [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?logo=GitLab&logoColor=white)](https://gitlab.com/DaniHolzer) &nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DanielHolz19614)  &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel_holzer01)  &nbsp;
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.com/user/504335286700998656)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discordapp.com/users/504335286700998656) 
 
 <br>
 
