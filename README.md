@@ -50,5 +50,9 @@ I began learning code in **April 2023**, and I’m currently gaining foundationa
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%09%2338BDF8?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![React](https://img.shields.io/badge/React-%230081A3?style=for-the-badge&logo=React&logoColor=white) &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+
