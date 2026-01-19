@@ -12,8 +12,8 @@ I began learning code in **April 2023**, and I’m currently gaining foundationa
 
 &nbsp; 📚 **Udemy courses** focused on IT and coding basics  
 &nbsp; 🏆 **CompTIA exams**, completed ITF+ and A+, next up: Linux+ and Project+  
-&nbsp; ⌨️ Adopting powerful tools like **Neovim**, **tmux**, and **i3wm** on **Linux Ubuntu**  
-&nbsp; 💻 Building skills in **JavaScript**, **HTML**, and **CSS**  
+&nbsp; ⌨️ Adopting powerful tools like **Neovim**, **tmux**, and **i3wm** on **Ubuntu Linux**  
+&nbsp; 💻 Building skills in **HTML**, **CSS**, **TailwindCSS**, **JavaScript**, **React** and **TypeScript**.
 &nbsp; 📝 I keep a regular study diary on X, sharing what I learn, tough problems, and small victories for future reference and job applications
 
 <br>
